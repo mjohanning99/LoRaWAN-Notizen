@@ -113,14 +113,14 @@
   "active": "27ebca62ea609e5b",
   "lastOpenFiles": [
     "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
-    "LoRaWAN Allgemein/Netzaufbau.md",
+    "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
+    "LoRaWAN Allgemein/Was ist LoRaWAN?.md",
     "LoRaWAN Allgemein/Gateways/iC880A-SPI.md",
+    "LoRaWAN Allgemein/Netzaufbau.md",
+    "Testaufbau/Teileliste.md",
+    "Testaufbau/Links.md",
     "LoRaWAN Allgemein/Gateways/Concatenator.md",
     "LoRaWAN Allgemein/Gateways/Gateways Allgemein.md",
-    "LoRaWAN Allgemein/Was ist LoRaWAN?.md",
-    "Testaufbau/Links.md",
-    "Testaufbau/Teileliste.md",
-    "Medien/Bilder/Screenshot 2022-01-12 at 18.02.00.png",
-    "Medien/Other/ttn-zh Anleitung.md"
+    "Medien/Bilder/Screenshot 2022-01-12 at 18.02.00.png"
   ]
 }
