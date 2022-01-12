@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
+            "file": "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
+                "file": "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
+                "file": "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,8 +112,8 @@
   },
   "active": "27ebca62ea609e5b",
   "lastOpenFiles": [
-    "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
     "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
+    "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
     "LoRaWAN Allgemein/Was ist LoRaWAN?.md",
     "LoRaWAN Allgemein/Gateways/iC880A-SPI.md",
     "LoRaWAN Allgemein/Netzaufbau.md",
