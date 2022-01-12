@@ -7,4 +7,4 @@
 
 ## Grober Beispielaufbau
 ![[Netzwerkplan_Grob.jpg]]
-Es wäre im obigen Beispiel auch gut möglich, dass die beiden [[Nodes]] Daten an beide [[Gateways]] gleichzeitig senden — der LoRaWAN-Netzwerkserver würde die Daten in diesem Falle „deduplizieren“, also die mehrfach auftretenden Datensätze löschen, 
+Es wäre im obigen Beispiel auch gut möglich, dass die beiden [[Nodes]] Daten an beide [[Gateways Allgemein|Gateways]] gleichzeitig senden — der LoRaWAN-Netzwerkserver würde die Daten in diesem Falle „deduplizieren“, also die mehrfach auftretenden Datensätze löschen, 

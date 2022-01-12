@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
+            "file": "LoRaWAN Allgemein/Gateways/iC880A-SPI.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
+                "file": "LoRaWAN Allgemein/Gateways/iC880A-SPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
+                "file": "LoRaWAN Allgemein/Gateways/iC880A-SPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "27ebca62ea609e5b",
   "lastOpenFiles": [
-    "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
-    "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
-    "LoRaWAN Allgemein/Was ist LoRaWAN?.md",
     "LoRaWAN Allgemein/Gateways/iC880A-SPI.md",
-    "LoRaWAN Allgemein/Netzaufbau.md",
-    "Testaufbau/Teileliste.md",
-    "Testaufbau/Links.md",
-    "LoRaWAN Allgemein/Gateways/Concatenator.md",
     "LoRaWAN Allgemein/Gateways/Gateways Allgemein.md",
-    "Medien/Bilder/Screenshot 2022-01-12 at 18.02.00.png"
+    "LoRaWAN Allgemein/Gateways/Concatenator.md",
+    "LoRaWAN Allgemein/Nodes/Nodes.md",
+    "LoRaWAN Allgemein/Netzaufbau.md",
+    "LoRaWAN Allgemein/Was ist LoRaWAN?.md",
+    "LoRaWAN Allgemein/Zentraler Server/Softwarelösungen Server.md",
+    "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
+    "LoRaWAN Allgemein/Gateways/Softwarelösungen Gateway.md",
+    "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md"
   ]
 }
