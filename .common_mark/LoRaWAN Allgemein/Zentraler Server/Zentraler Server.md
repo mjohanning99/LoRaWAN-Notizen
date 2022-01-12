@@ -4,5 +4,5 @@
 * Ggf. werden diese Daten dedupliziert (Duplikate werden verworfen)
 * Zentraler Server besteht aus zwei Komponenten
   * [Anwendungsserver](Anwendungsserver.md)
-  * *Netzwerkserver* 
+  * [Netzwerkserver](Netzwerkserver.md) 
 * Muss mit dem Internet verbunden sein
