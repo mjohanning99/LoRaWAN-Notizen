@@ -6,7 +6,7 @@
 	- Für kommerzielle Nutzung ist hierbei allerdings eine kostenpflichtige Lizenz vonnöten
 	- Man kann auch eigene [[Gateways Allgemein|Gateways]] im TTN betreiben
 	- Diese können über die Weboberfläche des TTN betrieben und eingesehen werden
-- Chirpstack ist eine quelloffene Variante für den [[Zentraler Server|zentralen Server]]
+- [[Chirpstack Serverstack|Chirpstack]] ist eine quelloffene Variante für den [[Zentraler Server|zentralen Server]]
 	- Stellt Software für den [[Anwendungsserver]] und auch den [[Netzwerkserver]] bereit
 	- Über eine Weboberfläche lassen sich die Gateways verwalten
 	- Großkunden kann hierüber auch Zugang zum LoRa-Netzwerk gewährt werden

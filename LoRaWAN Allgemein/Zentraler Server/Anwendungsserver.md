@@ -8,3 +8,4 @@
 	- Ver- und Entschlüsselung der Node-Daten
 	- For networks containing multiple gateways, ChirpStack Application Server provides a feature to test the gateway network coverage. By sending out periodical "pings" through each gateway, ChirpStack Application Server is able to discover how well these are received by other gateways in the same network. The collected data is displayed as a map in the web-interface.
 - Es gibt verschiedene [[Softwarelösungen Server|Softwarelösungen]] um einen Anwendungsserver zu realisieren
+- Im Testaufbau wird der [[Chirpstack Serverstack]] benutzt

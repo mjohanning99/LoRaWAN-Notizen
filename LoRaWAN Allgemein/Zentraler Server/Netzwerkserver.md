@@ -4,3 +4,4 @@
 	- Er ist für die Deduplikation der LoRaWAN-Pakete zuständig
 - Er kommuniziert mit dem [[Anwendungsserver]]
 - Er authentifiziert die ihm zugesendeten LoRa-Pakete
+- Im Testaufbau wird der [[Chirpstack Serverstack]] benutzt
