@@ -19,5 +19,10 @@
   "showFrontmatter": false,
   "showLineNumber": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "de-DE",
+    "de"
+  ]
 }

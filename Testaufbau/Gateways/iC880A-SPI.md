@@ -9,5 +9,8 @@
 - 5 V
 - The LoRa® MAC specification is currently driven by the [LoRa® Alliance](https://www.lora-alliance.org/). All available software, firmware and documentation can be found and downloaded from the open source project LoRa-net. It is highly recommended to fully re-use the latest HAL as provided by Semtech® on [Github](https://github.com/Lora-net).
 
-## Screenshots
+## Anschluss an RPI
  ![[Screenshot 2022-01-12 at 18.02.00.png]]
+
+## Beipackzettel Packung
+![[Beipackzettel_Concatenator.jpg]]
