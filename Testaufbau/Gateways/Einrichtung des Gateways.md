@@ -1,1 +1,10 @@
-# Einrichtung des Gateways
+- # Einrichtung des Gateways
+- Herunterladen und Flashen des [[GatewayOS]] auf den Raspberry Pi
+	- GatewayOS 3.5.1 funktioniert auf dem Pi 4 scheinbar nicht
+	- [GatewayOS 3.4.0](https://artifacts.chirpstack.io/downloads/chirpstack-gateway-os/raspberrypi/raspberrypi4/3.4.0/) könnte ggf. noch funktionieren
+	- [GitHub issue](https://github.com/brocaar/chirpstack-gateway-os/issues/81) wurde bereits erstellt
+- Installation verlief ohne Probleme
+- Nach Installation via SSH auf Pi zugegriffen
+- Ausführen des `sudo gateway-config`-Kommandos
+	- Gateway-Einrichtung ziemlich simpel
+	- __Beachten__: Wenn der [[iC880A-SPI]] nach der in dieser Dokumentation vorhandenen Anleitung an den RPi angeschlossen wird, so muss in der `gateway-config` der `Reset Pin` des Concatenator-Boards als `25` angegeben werden (da physischer Pin `22` = GPIO-Pin `25`)
