@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Testaufbau/Gateways/Einrichtung des Gateways.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -121,14 +121,14 @@
   "active": "2572c78ea14bdd8d",
   "lastOpenFiles": [
     "Testaufbau/Gateways/Einrichtung des Gateways.md",
-    "Testaufbau/Gateways/iC880A-SPI.md",
-    "Testaufbau/Nodes/LSN50V2-S31-EU868.md",
-    "Medien/PDFs/LSN50V2/LSN50v2_S31_LoRaWAN_Temperature_Manual_v1.2.pdf",
-    "Medien/PDFs/iC880A/iC880A_Datasheet_V1_1.pdf",
-    "Medien/PDFs/iC880A/iC880A-SPI_QuickStartGuide.pdf",
+    "Testaufbau/Server/Einrichtung des Servers.md",
+    "Testaufbau/Links.md",
+    "Testaufbau/Chirpstack/Chirpstack Serverstack.md",
+    "Testaufbau/Chirpstack/GatewayOS.md",
+    "LoRaWAN Allgemein/Was ist LoRaWAN?.md",
     "LoRaWAN Allgemein/Netzaufbau.md",
-    "LoRaWAN Allgemein/Gateways/Concatenator.md",
-    "LoRaWAN Allgemein/Gateways/Softwarelösungen Gateway.md",
-    "LoRaWAN Allgemein/Gateways/Gateways Allgemein.md"
+    "LoRaWAN Allgemein/Zentraler Server/Anwendungsserver.md",
+    "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
+    "LoRaWAN Allgemein/Zentraler Server/Softwarelösungen Server.md"
   ]
 }
