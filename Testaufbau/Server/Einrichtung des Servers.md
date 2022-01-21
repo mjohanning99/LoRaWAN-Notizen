@@ -8,7 +8,8 @@
 - Netzwerkserversoftware muss heruntergeladen werden (https://www.chirpstack.io/network-server/install/debian/)
 - Folgende Debian- bzw. Ubuntupakete müssen mithilfe von `sudo apt-get install paket_name` installiert werden, damit die obige Software laufen kann:
 	- `mosquitto`, `postgresql`, `redis-server`
-- [[Einrichtung der PostgreSQL-Datenbank für den Netzwerkserver]]
-- [[Einrichtung der PostgreSQL-Datenbank für den Anwendungsserver]]
-- [[Konfiguration Netzwerkserver]]
-- [[Konfiguration Anwendungsserver]]
+	- Die Einrichtung des Servers läuft nun wie folgt ab
+		1. [[Einrichtung der PostgreSQL-Datenbank für den Netzwerkserver]]
+		2. [[Einrichtung der PostgreSQL-Datenbank für den Anwendungsserver]]
+		3. [[Konfiguration Netzwerkserver]]
+		4. [[Konfiguration Anwendungsserver]]
