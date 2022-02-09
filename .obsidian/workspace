@@ -122,14 +122,14 @@
   "active": "9e8b2b6a991e4e7f",
   "lastOpenFiles": [
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+    "Dokumentation Firma/Reverse Proxy mit NGINX.md",
+    "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Medien/Bilder/gateway_test_1.jpg",
     "Medien/Bilder/iC880A_SPI_freigestellt-scaled.jpeg",
     "Medien/Bilder/Screenshot 2022-01-12 at 18.02.00.png",
     "Testaufbau/Server/Einrichtung des Servers.md",
     "Testaufbau/Server/Netzwerkserver/Konfiguration Netzwerkserver.md",
-    "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Testaufbau/Links.md",
-    "Testaufbau/Server/Netzwerkserver/Einrichtung der PostgreSQL-Datenbank für den Netzwerkserver.md",
-    "Testaufbau/Chirpstack/Chirpstack Serverstack.md"
+    "Testaufbau/Server/Netzwerkserver/Einrichtung der PostgreSQL-Datenbank für den Netzwerkserver.md"
   ]
 }

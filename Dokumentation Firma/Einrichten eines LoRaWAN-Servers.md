@@ -1,3 +1,7 @@
+# Inhaltsverzeichnis
+```toc
+```
+
 # Einrichten eines LoRaWAN-Servers
 In diesem Dokument wird kurz die Einrichtung und Installation eines LoRaWAN-Servers erläutert. Es werden beide Bestandteile des Servers angesprochen, der Netzwerk- sowie auch der Anwendungsserver.
 
@@ -47,3 +51,15 @@ Der wichtigste Schritt ist hierbei die korrekte Angabe der Datenbank und ihres P
 [postgresql]
 dsn="postgres://chirpstack_ns:datenbank_passwort_hier_eingeben@localhost/chirpstack_ns?sslmode=disable"
 ```
+
+Eine vollständige Beispielkonfiguration befindet sich auch in dem Ordner `Dateien`.
+
+### Starten des Dienstes
+Der Netzwerkserver kann nun gestartet und als Dienst aktiviert werden
+
+```bash
+sudo systemctl enable chirpstack-network-server
+sudo systemctl start chirpstack-network-server
+```
+
+## Anwendungsserver
