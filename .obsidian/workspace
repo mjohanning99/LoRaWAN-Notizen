@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
+            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,8 +121,8 @@
   },
   "active": "9e8b2b6a991e4e7f",
   "lastOpenFiles": [
-    "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+    "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Dokumentation Firma/Reverse Proxy mit NGINX.md",
     "Testaufbau/Server/Anwendungsserver/Konfiguration Anwendungsserver.md",
     "Testaufbau/Server/Anwendungsserver/Einrichtung der PostgreSQL-Datenbank für den Anwendungsserver.md",
