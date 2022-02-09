@@ -1,1 +1,1 @@
-# Reverse Proxy mit NGINX (für den Netzwerkserver)
+# Reverse Proxy mit NGINX (für den Anwendungsserver)
