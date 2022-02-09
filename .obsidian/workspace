@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5bdc3f9f22dd9cf9",
+        "id": "9e8b2b6a991e4e7f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -116,19 +116,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5bdc3f9f22dd9cf9",
+  "active": "9e8b2b6a991e4e7f",
   "lastOpenFiles": [
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
-    "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
-    "Testaufbau/Chirpstack/Chirpstack Serverstack.md",
+    "Medien/Bilder/gateway_test_1.jpg",
+    "Medien/Bilder/iC880A_SPI_freigestellt-scaled.jpeg",
+    "Medien/Bilder/Screenshot 2022-01-12 at 18.02.00.png",
     "Testaufbau/Server/Einrichtung des Servers.md",
-    "Testaufbau/Server/Anwendungsserver/Konfiguration Anwendungsserver.md",
     "Testaufbau/Server/Netzwerkserver/Konfiguration Netzwerkserver.md",
-    "Testaufbau/Server/Anwendungsserver/Einrichtung der PostgreSQL-Datenbank für den Anwendungsserver.md",
+    "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
+    "Testaufbau/Links.md",
     "Testaufbau/Server/Netzwerkserver/Einrichtung der PostgreSQL-Datenbank für den Netzwerkserver.md",
-    "Medien/Other/ttn-zh Anleitung.md",
-    "Testaufbau/Gateways/Einrichtung des Gateways.md"
+    "Testaufbau/Chirpstack/Chirpstack Serverstack.md"
   ]
 }
