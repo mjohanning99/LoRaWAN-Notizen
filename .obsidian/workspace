@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -122,8 +122,8 @@
   "active": "9e8b2b6a991e4e7f",
   "lastOpenFiles": [
     "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
-    "Dokumentation Firma/Reverse Proxy mit NGINX.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+    "Dokumentation Firma/Reverse Proxy mit NGINX.md",
     "Testaufbau/Server/Anwendungsserver/Konfiguration Anwendungsserver.md",
     "Testaufbau/Server/Anwendungsserver/Einrichtung der PostgreSQL-Datenbank für den Anwendungsserver.md",
     "Medien/Bilder/gateway_test_1.jpg",
