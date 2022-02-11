@@ -82,3 +82,16 @@ Unter dem Reiter "Join" muss nun angegeben werden, ob das Gerät OTAA oder nur A
 Hierzu einfach den Haken bei "Device support OTAA" setzen.![[Screenshot 2022-02-11 at 15.20.51.png]]
 
 #### Codec
+Die Daten der Nodes kommen als Base64 kodiert beim Netzwerkserver und somit auch bei dem Anwendungsserver an. Wenn man diese Daten in einer für Menschen lesbaren Form haben möchte, so ist ein Dekodierer nötig. Für viele Nodes gibt es bereits passende Dekodierer. Ein Beispieldekodierer ist in dem Order `Dateien` zu finden. Dekodierer müssen in JavaScript geschrieben werden.
+
+### Erstellen einer Application
+Nachdem ein Profil für die Nodes angelegt wurde muss in der jeweiligen Organisation unter "Applications" auch noch eine Application erstellt werden. Als Application kann beispielsweise ein Gebäude angesehen werden. Es werden somit also alle Nodes innerhalb eines bestimmten Gebäudes zusammengefasst. Hier muss auch wieder auf "+ Create" gedrückt werden.
+![[Screenshot 2022-02-11 at 15.33.56.png]]
+- Application name
+	- Passender Name für die Application (herforder_strasse_155a_33609_bielefeld)
+- Application description
+	- Passende Beschreibung (Alle Warmwasserzähler in der Herforder Str. 155a)
+- Service-profile
+	- Ein passendes Service-Profil
+
+### Hinzufügen von Nodes zu einer Application
