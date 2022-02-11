@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+            "file": "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+                "file": "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+                "file": "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,8 +121,8 @@
   },
   "active": "b8204dfa5f9f21f2",
   "lastOpenFiles": [
-    "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
+    "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Testaufbau/Gateways/Einrichtung des Gateways.md",
     "Dokumentation Firma/Reverse Proxy mit NGINX.md",
