@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
-            "mode": "preview",
+            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "426e94d4a6eff299",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Testaufbau/Gateways/Einrichtung des Gateways.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +133,15 @@
   },
   "active": "9e8b2b6a991e4e7f",
   "lastOpenFiles": [
-    "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
+    "Testaufbau/Gateways/Einrichtung des Gateways.md",
+    "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Dokumentation Firma/Reverse Proxy mit NGINX.md",
+    "Testaufbau/Gateways/iC880A-SPI.md",
     "Testaufbau/Server/Anwendungsserver/Konfiguration Anwendungsserver.md",
     "Testaufbau/Server/Anwendungsserver/Einrichtung der PostgreSQL-Datenbank für den Anwendungsserver.md",
     "Medien/Bilder/gateway_test_1.jpg",
     "Medien/Bilder/iC880A_SPI_freigestellt-scaled.jpeg",
-    "Medien/Bilder/Screenshot 2022-01-12 at 18.02.00.png",
-    "Testaufbau/Server/Einrichtung des Servers.md",
-    "Testaufbau/Server/Netzwerkserver/Konfiguration Netzwerkserver.md"
+    "Medien/Bilder/Screenshot 2022-01-12 at 18.02.00.png"
   ]
 }
