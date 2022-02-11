@@ -1,0 +1,1 @@
+# Konfiguration eines Anwendungsservers (GUI)

@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9e8b2b6a991e4e7f",
+        "id": "b8204dfa5f9f21f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "426e94d4a6eff299",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Testaufbau/Gateways/Einrichtung des Gateways.md",
+            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e8b2b6a991e4e7f",
+  "active": "b8204dfa5f9f21f2",
   "lastOpenFiles": [
+    "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+    "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Testaufbau/Gateways/Einrichtung des Gateways.md",
-    "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Dokumentation Firma/Reverse Proxy mit NGINX.md",
     "Testaufbau/Gateways/iC880A-SPI.md",
     "Testaufbau/Server/Anwendungsserver/Konfiguration Anwendungsserver.md",
     "Testaufbau/Server/Anwendungsserver/Einrichtung der PostgreSQL-Datenbank für den Anwendungsserver.md",
     "Medien/Bilder/gateway_test_1.jpg",
-    "Medien/Bilder/iC880A_SPI_freigestellt-scaled.jpeg",
-    "Medien/Bilder/Screenshot 2022-01-12 at 18.02.00.png"
+    "Medien/Bilder/iC880A_SPI_freigestellt-scaled.jpeg"
   ]
 }
