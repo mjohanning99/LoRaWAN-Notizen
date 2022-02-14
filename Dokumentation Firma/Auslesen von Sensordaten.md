@@ -1,0 +1,3 @@
+```toc
+```
+# Auslesen von Sensordaten

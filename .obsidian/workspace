@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
+            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,19 +116,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "d45102c44e7e7ca7",
   "lastOpenFiles": [
+    "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
+    "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.md",
+    "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.pdf",
+    "Dokumentation Firma/Auslesen von Sensordaten.md",
     "Testaufbau/Nodes/LSN50V2-S31-EU868.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
-    "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Testaufbau/Gateways/Einrichtung des Gateways.md",
     "Dokumentation Firma/Reverse Proxy mit NGINX.md",
-    "Testaufbau/Gateways/iC880A-SPI.md",
-    "Testaufbau/Server/Anwendungsserver/Konfiguration Anwendungsserver.md",
-    "Testaufbau/Server/Anwendungsserver/Einrichtung der PostgreSQL-Datenbank für den Anwendungsserver.md",
-    "Medien/Bilder/gateway_test_1.jpg"
+    "Testaufbau/Gateways/iC880A-SPI.md"
   ]
 }
