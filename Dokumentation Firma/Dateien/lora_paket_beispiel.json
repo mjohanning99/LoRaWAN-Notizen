@@ -1,0 +1,709 @@
+[
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -47,
+                    "loRaSNR": 6,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "4/EG9A==",
+                    "uplinkID": "2nKY3dkASvG5zz7k9tlJ/g==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 9,
+            "fPort": 2,
+            "data": "DSMAAADzAADZAW4=",
+            "objectJSON": "{\"ADC_CH0V\":0.243,\"BatV\":3.363,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"36.6\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"21.70\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T12:43:30.643333505Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -97,
+                    "loRaSNR": -20,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "nGrvPA==",
+                    "uplinkID": "lUAfDKqfSvWN4bc9wY50EA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 8,
+            "fPort": 2,
+            "data": "DSMAAADzAADWAW0=",
+            "objectJSON": "{\"ADC_CH0V\":0.243,\"BatV\":3.363,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"36.5\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"21.40\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T12:23:30.702186137Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -47,
+                    "loRaSNR": 6.25,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "nGrvLA==",
+                    "uplinkID": "X3sxYIyHR82paM1NVTuAyg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 8,
+            "fPort": 2,
+            "data": "DSMAAADzAADWAW0=",
+            "objectJSON": "{\"ADC_CH0V\":0.243,\"BatV\":3.363,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"36.5\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"21.40\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T12:23:30.693166351Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -52,
+                    "loRaSNR": 7,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "VOTXpA==",
+                    "uplinkID": "Yy3JjuPAQVK6d/P1P0BjNQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 7,
+            "fPort": 2,
+            "data": "DSUAAAD0AADWAWs=",
+            "objectJSON": "{\"ADC_CH0V\":0.244,\"BatV\":3.365,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"36.3\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"21.40\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T12:03:30.705427053Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -43,
+                    "loRaSNR": 6.25,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "DV7ABA==",
+                    "uplinkID": "XxfktgnNQ/qYoAMu9pL2gA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 6,
+            "fPort": 2,
+            "data": "DSUAAAD0AADRAWk=",
+            "objectJSON": "{\"ADC_CH0V\":0.244,\"BatV\":3.365,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"36.1\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"20.90\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T11:43:30.738328382Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -37,
+                    "loRaSNR": 5.25,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "xdiopA==",
+                    "uplinkID": "luMBgxQ8QEmYstXSlqRSLQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 5,
+            "fPort": 2,
+            "data": "DSMAAAD3AADOAWU=",
+            "objectJSON": "{\"ADC_CH0V\":0.247,\"BatV\":3.363,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"35.7\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"20.60\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T11:23:30.763310897Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -43,
+                    "loRaSNR": 7.5,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "flKRfA==",
+                    "uplinkID": "9/IdYbk1TXq4rL3RBmYnzw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 4,
+            "fPort": 2,
+            "data": "DSMAAAD1AADVAWY=",
+            "objectJSON": "{\"ADC_CH0V\":0.245,\"BatV\":3.363,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"35.8\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"21.30\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T11:03:30.794523565Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -43,
+                    "loRaSNR": 5.5,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Nsx53A==",
+                    "uplinkID": "j4bqUfbgSJGKokgAFdh41Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 3,
+            "fPort": 2,
+            "data": "DSMAAAD0AADXAWM=",
+            "objectJSON": "{\"ADC_CH0V\":0.244,\"BatV\":3.363,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"35.5\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"21.50\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T10:43:30.827288350Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -39,
+                    "loRaSNR": 5.75,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "70jiZA==",
+                    "uplinkID": "dEq777oaRcCMvyH2pPZfhw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 2,
+            "fPort": 2,
+            "data": "DSUAAAD2AADTAWI=",
+            "objectJSON": "{\"ADC_CH0V\":0.246,\"BatV\":3.365,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"35.4\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"21.10\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T10:23:31.019763126Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -42,
+                    "loRaSNR": 5.5,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "p8LLJA==",
+                    "uplinkID": "nFPvqSqgQWOyCD0ye2ZfIw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 1,
+            "fPort": 2,
+            "data": "DSUAAAD2AADWAWE=",
+            "objectJSON": "{\"ADC_CH0V\":0.246,\"BatV\":3.365,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"35.3\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"21.40\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T10:03:31.052083622Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -31,
+                    "loRaSNR": 7,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "YDozvA==",
+                    "uplinkID": "eyzmIVcSREqCawgu44KinQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 0,
+            "fPort": 2,
+            "data": "DSEAAAD6AADSAWE=",
+            "objectJSON": "{\"ADC_CH0V\":0.25,\"BatV\":3.361,\"Digital_IStatus\":\"L\",\"Door_status\":\"OPEN\",\"EXTI_Trigger\":\"FALSE\",\"Hum_SHT\":\"35.3\",\"TempC1\":\"0.00\",\"TempC_SHT\":\"21.00\",\"Work_mode\":\"IIC\"}",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AU/jAA==",
+            "publishedAt": "2022-02-14T09:43:30.952764235Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    },
+    {
+        "type": "join",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "devAddr": "AU/jAA==",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -31,
+                    "loRaSNR": 7,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "YDozvA==",
+                    "uplinkID": "eyzmIVcSREqCawgu44KinQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "dr": 0,
+            "tags": {},
+            "publishedAt": "2022-02-14T09:43:30.934494725Z"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "4",
+            "applicationName": "temp_application",
+            "deviceName": "temp_sensor_hq",
+            "devEUI": "qEBB1CGDfRk=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -24,
+                    "loRaSNR": 5.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "LIAGHA==",
+                    "uplinkID": "s3Wclm2lQ3Wy4NSe++6Z1g==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 0,
+            "fPort": 2,
+            "data": "DSEAAAD2AADRAWI=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "AHRnfQ==",
+            "publishedAt": "2022-02-14T09:29:03.123676555Z",
+            "deviceProfileID": "b79c4eb0-81d1-4c7d-849a-2a7d92aa4373",
+            "deviceProfileName": "temp_sensor_profile"
+        }
+    }
+]
