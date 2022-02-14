@@ -1,0 +1,347 @@
+[
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -83,
+                    "loRaSNR": 9.25,
+                    "channel": 0,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "LbhxBA==",
+                    "uplinkID": "ekNQUvcTSbusD7BV6TIJTg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 14,
+            "fPort": 1,
+            "data": "EQAAAAA=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": true,
+            "devAddr": "ANWxeA==",
+            "publishedAt": "2022-01-31T00:44:52.644983742Z",
+            "deviceProfileID": "9580b017-8e29-40b3-a77a-795b477e20bd",
+            "deviceProfileName": "rauchmelder_profile"
+        }
+    },
+    {
+        "type": "error",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "type": "UPLINK_CODEC",
+            "error": "execute js error: js vm error: TypeError: 'map' is not a function",
+            "fCnt": 14,
+            "tags": {},
+            "publishedAt": "2022-01-31T00:44:52.644220258Z"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -80,
+                    "loRaSNR": 10.75,
+                    "channel": 1,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "EFEIhA==",
+                    "uplinkID": "uokwxWSgRO658p1oWfjyMA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 13,
+            "fPort": 1,
+            "data": "EQAAAAA=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": true,
+            "devAddr": "ANWxeA==",
+            "publishedAt": "2022-01-30T00:44:59.990771062Z",
+            "deviceProfileID": "9580b017-8e29-40b3-a77a-795b477e20bd",
+            "deviceProfileName": "rauchmelder_profile"
+        }
+    },
+    {
+        "type": "error",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "type": "UPLINK_CODEC",
+            "error": "execute js error: js vm error: TypeError: 'map' is not a function",
+            "fCnt": 13,
+            "tags": {},
+            "publishedAt": "2022-01-30T00:44:59.990001228Z"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -84,
+                    "loRaSNR": 13.25,
+                    "channel": 0,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "8bhtlA==",
+                    "uplinkID": "s/CMUS7uSTW+uU+hg6h/EA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 12,
+            "fPort": 1,
+            "data": "EQAAAAA=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": true,
+            "devAddr": "ANWxeA==",
+            "publishedAt": "2022-01-29T00:44:47.307278695Z",
+            "deviceProfileID": "9580b017-8e29-40b3-a77a-795b477e20bd",
+            "deviceProfileName": "rauchmelder_profile"
+        }
+    },
+    {
+        "type": "error",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "type": "UPLINK_CODEC",
+            "error": "execute js error: js vm error: TypeError: 'map' is not a function",
+            "fCnt": 12,
+            "tags": {},
+            "publishedAt": "2022-01-29T00:44:47.306480604Z"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -79,
+                    "loRaSNR": 11.25,
+                    "channel": 1,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "1J06HA==",
+                    "uplinkID": "Y5ySBLOFTles2AN71AZ8Aw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 11,
+            "fPort": 1,
+            "data": "EQEAAAA=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": true,
+            "devAddr": "ANWxeA==",
+            "publishedAt": "2022-01-28T00:44:59.630915154Z",
+            "deviceProfileID": "9580b017-8e29-40b3-a77a-795b477e20bd",
+            "deviceProfileName": "rauchmelder_profile"
+        }
+    },
+    {
+        "type": "error",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "type": "UPLINK_CODEC",
+            "error": "execute js error: js vm error: TypeError: 'map' is not a function",
+            "fCnt": 11,
+            "tags": {},
+            "publishedAt": "2022-01-28T00:44:59.630151363Z"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -45,
+                    "loRaSNR": 7.5,
+                    "channel": 2,
+                    "rfChain": 1,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "5fkWdA==",
+                    "uplinkID": "EX2vclpTTNiUhMJGXA2Wpg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 10,
+            "fPort": 1,
+            "data": "oAIA2yE=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": true,
+            "devAddr": "ANWxeA==",
+            "publishedAt": "2022-01-27T08:07:41.312761721Z",
+            "deviceProfileID": "9580b017-8e29-40b3-a77a-795b477e20bd",
+            "deviceProfileName": "rauchmelder_profile"
+        }
+    },
+    {
+        "type": "error",
+        "payload": {
+            "applicationID": "2",
+            "applicationName": "rauchmelder_application",
+            "deviceName": "rauchmelder_hq_1",
+            "devEUI": "BLZIDAEIZBI=",
+            "type": "UPLINK_CODEC",
+            "error": "execute js error: js vm error: TypeError: 'map' is not a function",
+            "fCnt": 10,
+            "tags": {},
+            "publishedAt": "2022-01-27T08:07:41.312055880Z"
+        }
+    }
+]

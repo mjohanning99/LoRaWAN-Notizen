@@ -17,7 +17,7 @@ Die nächsten Informationen zeigen an, auf welcher Frequenz das Paket beim Gatew
 
 ## Öffnen eines LoRaWAN-Paketes
 ![[Screenshot 2022-02-14 at 13.28.48.png]]
-Um ein bestimmtes LoRaWAN-Paket zu öffnen wird dieses einfach angeklickt. Es öffnet sich nun das Paket mit allerlei Daten. Eine Datei mit einer Handvoll Beispielpaketen liegt in dem Ordner `Dateien/lora_paket_beispiel.json` (enthält auch dekodierte Daten).
+Um ein bestimmtes LoRaWAN-Paket zu öffnen wird dieses einfach angeklickt. Es öffnet sich nun das Paket mit allerlei Daten. Eine Datei mit einer Handvoll Beispielpaketen liegt in dem Ordner `Dateien/LoRaWAN-Paketbeispiele` (enthält auch dekodierte Daten).
 
 ### JSON-Daten-Erläuterungen
 - <ins>**General**</ins>

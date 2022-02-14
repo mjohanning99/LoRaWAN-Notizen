@@ -1,0 +1,3198 @@
+[
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 10.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "JRJXZA==",
+                    "uplinkID": "hdQRM6NMSX+oaneGADxm6A==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 66,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T13:01:43.342222118Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -26,
+                    "loRaSNR": 8.25,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "HTWUnA==",
+                    "uplinkID": "S/jxTlVTRpiS/2XdKSMB/Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 65,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:59:31.448114913Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 10.25,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "FVjSTA==",
+                    "uplinkID": "7T5I0GjIQJyuMGqrS03C7A==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 64,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:57:19.523934962Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 8.5,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "DXwPnA==",
+                    "uplinkID": "J8XhA7xIQJOriF/IbSFpvw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 63,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:55:07.626697240Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -27,
+                    "loRaSNR": 9.25,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "BZ9MxA==",
+                    "uplinkID": "sFjY2y6qQbCsrCNpp5qd/g==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 62,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:52:55.710867282Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -27,
+                    "loRaSNR": 8.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "/cKKhA==",
+                    "uplinkID": "+09I9pfiQ4G56W/pP9iaDA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 61,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:50:43.807330765Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -31,
+                    "loRaSNR": 9.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "9eXH9A==",
+                    "uplinkID": "jQgDejLvRPeZofWIJ8x8Wg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 60,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:48:31.893565981Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -41,
+                    "loRaSNR": 8.5,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "7gkFFA==",
+                    "uplinkID": "vHx6aoU8RkqaulgqZxMixg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 59,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:46:19.985747442Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 9,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "5ixCzA==",
+                    "uplinkID": "ip+PnNE1Q4ad3MCMSRIong==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 58,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:44:08.079816053Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -27,
+                    "loRaSNR": 9.75,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "3VgXXA==",
+                    "uplinkID": "ttGYK+w/R2uIYzrYdWMcnQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 57,
+            "fPort": 2,
+            "data": "AAAAAAAAAAAABAw=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:41:39.958664443Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 7.75,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "1XjFbA==",
+                    "uplinkID": "odffXNMuRauUa4AIwBtjWQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 56,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:39:27.879863444Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -27,
+                    "loRaSNR": 8.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "zZwDFA==",
+                    "uplinkID": "S0rfF+4cTWijE+VSQAQ5PQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 55,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:37:15.979899807Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -29,
+                    "loRaSNR": 10.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "xb9AXA==",
+                    "uplinkID": "EPaEwJAyQXOpZ8MVNDTpEg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 54,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:35:04.063717940Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -40,
+                    "loRaSNR": 8.25,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "veJ9tA==",
+                    "uplinkID": "xkysrVZ9R76n6g1RaGvVLw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 53,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:32:52.158958432Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 8.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "tgW7PA==",
+                    "uplinkID": "V3YhAVXrRLOAQsMHaPMrLg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 52,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:30:40.251588091Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 10,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "rij4nA==",
+                    "uplinkID": "89b5yQbRRm65mr4Ydga0sg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 51,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:28:28.334997894Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 7.75,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "pkw2HA==",
+                    "uplinkID": "cQGN8SmzSfm4TuNcTTuLfQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 50,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:26:16.432152616Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -27,
+                    "loRaSNR": 9,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "pjfSjA==",
+                    "uplinkID": "P1g36L87TpOLLuT7ZvxpuA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 49,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:26:15.096417811Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -27,
+                    "loRaSNR": 10.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "nlsP/A==",
+                    "uplinkID": "gFvr/TPORIeEPVk1SuNzoQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 48,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:24:03.189452622Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -25,
+                    "loRaSNR": 7.5,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "ln5NHA==",
+                    "uplinkID": "wq0UcYDOQoWcdjiGpVmQYg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 47,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:21:51.275572853Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 9.25,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "jqGKxA==",
+                    "uplinkID": "TcSnZaHBSuG8HBiyxVVPGQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 46,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:19:39.370111297Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -23,
+                    "loRaSNR": 8.5,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "hc1fRA==",
+                    "uplinkID": "ksNSB/sdRIqXZqqKb7qDrQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 45,
+            "fPort": 2,
+            "data": "AAAAAAAAAAAABAw=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:17:11.248614774Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -22,
+                    "loRaSNR": 8.25,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "fe4NXA==",
+                    "uplinkID": "fBdCKcOLQSq3AZG1/H7q5Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 44,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:14:59.171702349Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -22,
+                    "loRaSNR": 9.75,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "dhFK9A==",
+                    "uplinkID": "3L3kcdFBR/imAugJynaezw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 43,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:12:47.258917813Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -24,
+                    "loRaSNR": 9,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "bjSIVA==",
+                    "uplinkID": "BaNaOmtiR9+A/j63mWl4Xw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 42,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:10:35.349784476Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -22,
+                    "loRaSNR": 8.25,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "ZlfFdA==",
+                    "uplinkID": "GRY9hj7ESs+QUA0ygnSMYg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 41,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:08:23.441861362Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -24,
+                    "loRaSNR": 8.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "XnsDJA==",
+                    "uplinkID": "lOUH7Tt5TqO6NJyc+w3bxQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 40,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:06:11.540371444Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -23,
+                    "loRaSNR": 9.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Vp5AfA==",
+                    "uplinkID": "vZQ4mF9uRiOZtZcZPyx8UQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 39,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:03:59.627569940Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -23,
+                    "loRaSNR": 7.75,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "TsF9lA==",
+                    "uplinkID": "IYwPQHIXSeq/xqbeeCogZQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 38,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T12:01:47.724648760Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -22,
+                    "loRaSNR": 9.25,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "RuS7RA==",
+                    "uplinkID": "0nUABI1CSyqwB2PMl+Jj1g==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 37,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:59:35.819163350Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -25,
+                    "loRaSNR": 9.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Pwf4lA==",
+                    "uplinkID": "ZxIpJm9pQq+iW+80z0xGUA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 36,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:57:23.916632485Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -22,
+                    "loRaSNR": 8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Nys1xA==",
+                    "uplinkID": "zIXIc5YRSlK3izx2BG9sxw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 35,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:55:12.014150971Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -30,
+                    "loRaSNR": 8.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "LlcKlA==",
+                    "uplinkID": "8mZ2OMViSEKCtEfB2xFLjA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 34,
+            "fPort": 2,
+            "data": "AAAAAAAAAAAABAw=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:52:43.877529864Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -29,
+                    "loRaSNR": 8.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Jne41A==",
+                    "uplinkID": "4hsTlPIxQGaFMwpmXY2IYQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 33,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:50:31.800868864Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -29,
+                    "loRaSNR": 7.75,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Hpr17A==",
+                    "uplinkID": "ZR4y7F0hRrq0yINJtYhgdA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 32,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:48:19.890524147Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -30,
+                    "loRaSNR": 8.5,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Fr4zfA==",
+                    "uplinkID": "9a3ZJ/jOQH+bHc+2N3sxEA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 31,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:46:07.993153389Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -87,
+                    "loRaSNR": -16.75,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "Fr4ixA==",
+                    "uplinkID": "sI9rM9X1T9SYUqUcdmNysw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 31,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:46:07.988417346Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -31,
+                    "loRaSNR": 8,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "DuFw5A==",
+                    "uplinkID": "7a6q9zThRPiQBAlhUYTsuw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 30,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:43:56.073971061Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -35,
+                    "loRaSNR": 7.5,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "BwSuBA==",
+                    "uplinkID": "9Dw8xKbvSS6OBNLPrrw1UA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 29,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:41:44.166419021Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -28,
+                    "loRaSNR": 9.75,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "/yfrjA==",
+                    "uplinkID": "lulY+2SjS5Cq3o6V4YcnZw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 28,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:39:32.255726464Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -30,
+                    "loRaSNR": 8.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "90so3A==",
+                    "uplinkID": "hb8IxUEDRNmOnV3rwBYdtw==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 27,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:37:20.347608389Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -30,
+                    "loRaSNR": 7.75,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "725l/A==",
+                    "uplinkID": "0vDn80ZxTKyok1szXFQ/Ow==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 26,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:35:08.436396475Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -29,
+                    "loRaSNR": 8.75,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "55GjlA==",
+                    "uplinkID": "JjUjsw3kTTW3Z1ZnzemfxA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 25,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:32:56.539514168Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -87,
+                    "loRaSNR": -16.75,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "55GIxA==",
+                    "uplinkID": "htuu9Oi0QM6HFTyG1UhWug==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 25,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:32:56.529630017Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -31,
+                    "loRaSNR": 8.75,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "37Tg3A==",
+                    "uplinkID": "FMo7NuKbRgSgZGf0aaH6iA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 24,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:30:44.623494607Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -35,
+                    "loRaSNR": 8.5,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "1uC0jA==",
+                    "uplinkID": "KGcMzKakQP+61eJ7QpEz5Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 23,
+            "fPort": 2,
+            "data": "AAAAAAAAAAAABAw=",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:28:16.493952885Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -30,
+                    "loRaSNR": 9,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "1snB1A==",
+                    "uplinkID": "hsLmmBXlTfKhe+9DCb4MKg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 22,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:28:15.005010183Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -30,
+                    "loRaSNR": 10,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "zuz/JA==",
+                    "uplinkID": "StR2PBg1Q/m53cwQCg8guQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 21,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:26:03.109090735Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -29,
+                    "loRaSNR": 8,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "xxA8TA==",
+                    "uplinkID": "m8WYNsFlQ3SfqEdGSnwsIg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 20,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T11:23:51.177491895Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -29,
+                    "loRaSNR": 9,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "aKAqRA==",
+                    "uplinkID": "m/WIDiskRXqpqHfwwc1dIQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 7,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T10:57:26.770838919Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "error",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "type": "UPLINK_FCNT_RETRANSMISSION",
+            "error": "frame-counter did not increment",
+            "fCnt": 6,
+            "tags": {},
+            "publishedAt": "2022-02-14T10:55:14.869550318Z"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -87,
+                    "loRaSNR": -16.75,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "YMM9ZA==",
+                    "uplinkID": "VdFan5u4SH+KNynOYjO96Q==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 6,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T10:55:14.859044433Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -30,
+                    "loRaSNR": 7.75,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "WOak3A==",
+                    "uplinkID": "layrLpscT92V6jVdK8qaFA==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 5,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T10:53:02.976023221Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -29,
+                    "loRaSNR": 9,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "UQnihA==",
+                    "uplinkID": "zfAXCeFCRGG8Mea4l34jQg==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 4,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T10:50:51.056916682Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -57,
+                    "loRaSNR": 9.75,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "SS0f9A==",
+                    "uplinkID": "dqxkvz1pTyO2ouwApPsyog==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 3,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T10:48:39.140511248Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -24,
+                    "loRaSNR": 7.25,
+                    "channel": 2,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "QVBdPA==",
+                    "uplinkID": "IhWyfTScSpSGjno3gFfKiQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868500000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 2,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T10:46:27.232842019Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -29,
+                    "loRaSNR": 9,
+                    "channel": 1,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "OXOcJA==",
+                    "uplinkID": "kMAiBJBiQaezja5fvOCBsQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868300000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 12,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 0,
+            "fCnt": 1,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": false,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T10:44:15.328876437Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "up",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -39,
+                    "loRaSNR": 11.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "MjrthA==",
+                    "uplinkID": "Eds0zUdhQ/eaWZ22pwALGQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 9,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "adr": true,
+            "dr": 3,
+            "fCnt": 0,
+            "fPort": 1,
+            "data": "AAAAAA==",
+            "objectJSON": "",
+            "tags": {},
+            "confirmedUplink": true,
+            "devAddr": "ASzKxA==",
+            "publishedAt": "2022-02-14T10:42:14.153743295Z",
+            "deviceProfileID": "5299a018-c2d8-4ec1-b23a-117cd35b91a6",
+            "deviceProfileName": "heizekostenverteiler_profile"
+        }
+    },
+    {
+        "type": "join",
+        "payload": {
+            "applicationID": "5",
+            "applicationName": "heizkostenverteiler_application",
+            "deviceName": "heizkostenverteiler_1_hq",
+            "devEUI": "sLNT//5ATR0=",
+            "devAddr": "ASzKxA==",
+            "rxInfo": [
+                {
+                    "gatewayID": "uCfr//7TUV4=",
+                    "time": null,
+                    "timeSinceGPSEpoch": null,
+                    "rssi": -39,
+                    "loRaSNR": 11.25,
+                    "channel": 0,
+                    "rfChain": 0,
+                    "board": 0,
+                    "antenna": 0,
+                    "location": {
+                        "latitude": 52.035412668782605,
+                        "longitude": 8.54841470718384,
+                        "altitude": 0,
+                        "source": "UNKNOWN",
+                        "accuracy": 0
+                    },
+                    "fineTimestampType": "NONE",
+                    "context": "MjrthA==",
+                    "uplinkID": "Eds0zUdhQ/eaWZ22pwALGQ==",
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 868100000,
+                "modulation": "LORA",
+                "loRaModulationInfo": {
+                    "bandwidth": 125,
+                    "spreadingFactor": 9,
+                    "codeRate": "4/5",
+                    "polarizationInversion": false
+                }
+            },
+            "dr": 3,
+            "tags": {},
+            "publishedAt": "2022-02-14T10:42:14.152842505Z"
+        }
+    }
+]
