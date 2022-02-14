@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -122,6 +122,7 @@
   "active": "d45102c44e7e7ca7",
   "lastOpenFiles": [
     "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
+    "Testaufbau/Nodes/LSN50V2-S31-EU868.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Testaufbau/Gateways/Einrichtung des Gateways.md",
@@ -129,7 +130,6 @@
     "Testaufbau/Gateways/iC880A-SPI.md",
     "Testaufbau/Server/Anwendungsserver/Konfiguration Anwendungsserver.md",
     "Testaufbau/Server/Anwendungsserver/Einrichtung der PostgreSQL-Datenbank für den Anwendungsserver.md",
-    "Medien/Bilder/gateway_test_1.jpg",
-    "Medien/Bilder/iC880A_SPI_freigestellt-scaled.jpeg"
+    "Medien/Bilder/gateway_test_1.jpg"
   ]
 }

@@ -95,3 +95,19 @@ Nachdem ein Profil für die Nodes angelegt wurde muss in der jeweiligen Organisa
 	- Ein passendes Service-Profil
 
 ### Hinzufügen von Nodes zu einer Application
+Nachdem eine Application angelegt wurde muss diese mit einem Klick auf dessen Namen geöffnet werden. Auf der Konfigurationsseite der Application unter dem Reiter "Devices" muss auf "+ Create" geklickt werden.
+![[Screenshot 2022-02-14 at 10.20.21.png]]
+Auf der Seite die sich dann öffnet müssen folgende Daten eingegeben werden:
+![[Screenshot 2022-02-14 at 10.24.36.png]]
+- Device name
+	- Ein passender Gerätename (temp_sensor_whg_10)
+- Device description
+	- Eine Gerätebeschreibung (Temperatursensor in Wohnung 10, 2. OG rechts)
+- Device EUI
+	- Die Geräte-EUI (befindet sich in der Anleitung des Gerätes oder direkt auf dem Gerät)
+- Device-profile
+	- Das korrekte Geräteprofil, das vorhin angelegt wurde
+
+Nach Eingabe aller Daten wird auf "Create Device" geklickt. Man wird daraufhin dazu aufgefordert, den "Application key" einzugeben (bei OTAA). Auch dieser
+ ![[Screenshot 2022-02-14 at 10.28.11.png]]
+ Nach Eingabe des Keys muss auf "Set Device-Keys" geklickt werden — der Node wurde nun erfolgreich hinzugefügt.
