@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
-            "mode": "preview",
+            "file": "Dokumentation Firma/Auslesen von Sensordaten.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+                "file": "Dokumentation Firma/Auslesen von Sensordaten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+                "file": "Dokumentation Firma/Auslesen von Sensordaten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +121,11 @@
   },
   "active": "d45102c44e7e7ca7",
   "lastOpenFiles": [
+    "Dokumentation Firma/Auslesen von Sensordaten.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
     "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.md",
     "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.pdf",
-    "Dokumentation Firma/Auslesen von Sensordaten.md",
     "Testaufbau/Nodes/LSN50V2-S31-EU868.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Testaufbau/Gateways/Einrichtung des Gateways.md",
