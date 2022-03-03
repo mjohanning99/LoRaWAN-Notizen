@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dokumentation Firma/Auslesen von Sensordaten.md",
-            "mode": "source"
+            "file": "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation Firma/Auslesen von Sensordaten.md",
+                "file": "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation Firma/Auslesen von Sensordaten.md",
+                "file": "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +121,15 @@
   },
   "active": "750f5f9beaf9c977",
   "lastOpenFiles": [
-    "Dokumentation Firma/Auslesen von Sensordaten.md",
-    "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
+    "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md",
+    "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
+    "LoRaWAN Allgemein/Gateways/Gateways Allgemein.md",
+    "LoRaWAN Allgemein/Gateways/Concatenator.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+    "Dokumentation Firma/Auslesen von Sensordaten.md",
+    "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
     "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.md",
-    "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.pdf",
-    "Testaufbau/Nodes/LSN50V2-S31-EU868.md",
-    "Testaufbau/Gateways/Einrichtung des Gateways.md",
-    "Dokumentation Firma/Reverse Proxy mit NGINX.md",
-    "Testaufbau/Gateways/iC880A-SPI.md"
+    "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.pdf"
   ]
 }
