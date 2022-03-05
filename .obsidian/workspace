@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md",
-            "mode": "preview",
+            "file": "Testaufbau/Nodes/LSN50V2-S31-EU868.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md",
+                "file": "Testaufbau/Nodes/LSN50V2-S31-EU868.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md",
+                "file": "Testaufbau/Nodes/LSN50V2-S31-EU868.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +121,7 @@
   },
   "active": "750f5f9beaf9c977",
   "lastOpenFiles": [
+    "Testaufbau/Nodes/LSN50V2-S31-EU868.md",
     "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md",
     "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
     "LoRaWAN Allgemein/Gateways/Gateways Allgemein.md",
@@ -129,7 +130,6 @@
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Dokumentation Firma/Auslesen von Sensordaten.md",
     "Dokumentation Firma/Konfiguration eines Anwendungsservers (GUI).md",
-    "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.md",
-    "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.pdf"
+    "Dokumentation Firma/Dateien/configs/LSN50 v2 Decoder.md"
   ]
 }
