@@ -122,14 +122,14 @@
   "active": "750f5f9beaf9c977",
   "lastOpenFiles": [
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+    "Medien/Bilder/gateway-config/gateway-config-allgemein.png",
+    "Medien/Bilder/gateway-config/gateway-config-address.png",
+    "Medien/Bilder/gateway-config/gateway-config-concentrator.png",
+    "Medien/Bilder/gateway-config/gateway-config-channel.png",
+    "Medien/Bilder/gateway-config.png",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Testaufbau/Gateways/iC880A-SPI.md",
     "Testaufbau/Chirpstack/GatewayOS.md",
-    "LoRaWAN Allgemein/Gateways/Softwarelösungen Gateway.md",
-    "LoRaWAN Allgemein/Gateways/Gateways Allgemein.md",
-    "LoRaWAN Allgemein/Zentraler Server/Netzwerkserver.md",
-    "LoRaWAN Allgemein/Zentraler Server/Zentraler Server.md",
-    "LoRaWAN Allgemein/Gateways/Concatenator.md",
-    "Dokumentation Firma/Auslesen von Sensordaten.md"
+    "LoRaWAN Allgemein/Gateways/Softwarelösungen Gateway.md"
   ]
 }
