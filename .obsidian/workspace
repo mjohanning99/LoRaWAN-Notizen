@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+            "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
+                "file": "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,13 +121,13 @@
   },
   "active": "750f5f9beaf9c977",
   "lastOpenFiles": [
+    "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Dokumentation Firma/Einrichten eines LoRaWAN-Servers.md",
     "Medien/Bilder/gateway-config/gateway-config-allgemein.png",
     "Medien/Bilder/gateway-config/gateway-config-address.png",
     "Medien/Bilder/gateway-config/gateway-config-concentrator.png",
     "Medien/Bilder/gateway-config/gateway-config-channel.png",
     "Medien/Bilder/gateway-config.png",
-    "Dokumentation Firma/Einrichten eines LoRaWAN-Gateways.md",
     "Testaufbau/Gateways/iC880A-SPI.md",
     "Testaufbau/Chirpstack/GatewayOS.md",
     "LoRaWAN Allgemein/Gateways/Softwarelösungen Gateway.md"
